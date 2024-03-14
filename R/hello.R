@@ -2,6 +2,7 @@
 #'
 #' @description \loadmathjax
 #' description of hello function
+#' \mjdeqn{k = log(1 - p) / log(1 - w^{n})}{k = log(1 - p) / log(1 - w^n)}
 #'
 #'
 #' @details
